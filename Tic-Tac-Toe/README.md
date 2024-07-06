@@ -19,11 +19,11 @@ To run this project, you need to have Python installed on your system. You can d
 
 1. Clone this repository to your local machine:
     ```sh
-    git clone https://github.com/your-username/tic-tac-toe-tkinter.git
+    git clone https://github.com/Shivaseth/portfolio.git
     ```
 2. Navigate to the project directory:
     ```sh
-    cd Tic-Tac-Toe
+     cd portfolio/Tic-Tac-Toe
     ```
 3. Run the Python script:
     ```sh
